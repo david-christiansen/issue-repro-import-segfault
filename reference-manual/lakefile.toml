@@ -1,0 +1,11 @@
+name = "«verso-manual»"
+moreLeancArgs = ["-O0"]
+moreLinkArgs = ["-Wl,-ignore_optimization_hints"]
+defaultTargets = ["Manual"]
+
+[[require]]
+name = "verso"
+path = "../verso"
+
+[[lean_lib]]
+name = "Manual"

@@ -1,0 +1,12 @@
+{"version": "1.1.0",
+ "packagesDir": ".lake/packages",
+ "packages":
+ [{"type": "path",
+   "scope": "",
+   "name": "verso",
+   "manifestFile": "lake-manifest.json",
+   "inherited": false,
+   "dir": "./../verso",
+   "configFile": "lakefile.toml"}],
+ "name": "«verso-manual»",
+ "lakeDir": ".lake"}

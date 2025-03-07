@@ -1,0 +1,7 @@
+name = "verso"
+precompileModules = true
+defaultTargets = ["Verso"]
+
+[[lean_lib]]
+name = "Verso"
+srcDir = "src/verso"
